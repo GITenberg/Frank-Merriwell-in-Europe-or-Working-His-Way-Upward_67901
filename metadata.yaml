@@ -1,0 +1,39 @@
+_repo: Frank-Merriwell-in-Europe-or-Working-His-Way-Upward_67901
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Standish, Burt L.
+    aliases:
+    - Patten, Gilbert
+    - Wilder, William West
+    - Patten, William G. (William Gilbert)
+    - Patten, William Gilbert
+    - Wilder, William W. (William West)
+    - Patten, George William
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '3848'
+    url: http://www.gutenberg.org/2009/agents/3848
+    wikipedia: https://en.wikipedia.org/wiki/Burt_L._Standish
+description: ''
+gutenberg_issued: '2022-04-22'
+identifiers:
+  gutenberg: '67901'
+language: en
+pgterms:marc905: 20201122115841standish
+pgterms:marc906: '1896'
+pgterms:marc907: us
+production_note: David Edwards, Barry Abrahamsen, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: United States :Street & Smith,1896,copyright 1903,copyright 1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Merriwell, Frank (Fictitious character) -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Frank Merriwell in Europe; or, Working His Way Upward
+url: http://www.gutenberg.org/ebooks/67901
